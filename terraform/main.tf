@@ -1,7 +1,7 @@
 # Configuración del proveedor de Azure
 provider "azurerm" {
   features {}
-  subscription_id = "ac9db688-a78d-4131-bcf9-1fbec13edb70"
+  subscription_id = "ID"
 }
 
 # Creación del grupo de recursos
